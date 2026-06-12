@@ -36,3 +36,14 @@ A RAG system that answers questions about gaming Wikipedia articles with verifie
 - Doom II Wikipedia 10 pages
 - Cry of Fear Wikipedia 6 pages
 - Total 37 chunks
+
+## Screenshots
+
+### Hotline Miami — Who developed it?
+![Hotline Miami](hotline-miami.png)
+
+### Cry of Fear — Plot summary
+![Cry of Fear](cry-of-fear.png)
+
+### Doom II — Release date
+![Doom II](doom2.png)
