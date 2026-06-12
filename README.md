@@ -39,11 +39,11 @@ A RAG system that answers questions about gaming Wikipedia articles with verifie
 
 ## Screenshots
 
-### Hotline Miami — Who developed it?
+### Hotline Miami
 ![Hotline Miami](hotline-miami.png)
 
-### Cry of Fear — Plot summary
+### Cry of Fear
 ![Cry of Fear](cry-of-fear.png)
 
-### Doom II — Release date
+### Doom II
 ![Doom II](doom2.png)
