@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+sentence-transformers
+rank-bm25
+scikit-learn
+requests
+python-dotenv
+torch
