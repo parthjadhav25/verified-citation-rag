@@ -1,3 +1,6 @@
+## 🔗 Live Demo
+[verified-citation-rag-hem5rvsjs2bffk9srq8rhx.streamlit.app](https://verified-citation-rag-hem5rvsjs2bffk9srq8rhx.streamlit.app/)
+
 # Verified Citation RAG
 
 A RAG system that answers questions about gaming Wikipedia articles with verified citations.
@@ -47,3 +50,6 @@ A RAG system that answers questions about gaming Wikipedia articles with verifie
 
 ### Doom II
 ![Doom II](doom2.png)
+
+## Note on model availability
+This project originally used llama-3.3-70b-versatile via Groq. That model was later decommissioned by Groq; the project now uses openai/gpt-oss-20b.
